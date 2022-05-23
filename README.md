@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhsegval
+- 👋 Hi, I’m Mohammed @mhsegval
 - 👀 I’m interested in Full Stack Development and Software Development
 - 🌱 I’m currently learning AngularJs, .Net, and Non-Structured Database. 
 - 📫 You can connect with me on Linked :- https://www.linkedin.com/in/mohammed-segval-466069162/
