@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Mohammed @mhsegval
-- 👀 I’m a Frontend Developer.
-- I have experience and expertice in React, JavaScript, TypeScript, HTML, CSS.
--  I’m currently learning NodeJS as my long term goal is to become a full-stack developer.
--  You can connect with me on LinkedIn :- https://www.linkedin.com/in/mohammed-segval-466069162/
-- 📧 You can reach me @ mohammedsegval53@gmail.com
+### Hi there 👋, I'm Mohammed
+##### How about "Turning coffee into code, one line at a time"?
+![How about "Turning coffee into code, one line at a time"?](https://media.licdn.com/dms/image/D5616AQHXRHAxtpAAjw/profile-displaybackgroundimage-shrink_350_1400/0/1667441141691?e=1683763200&v=beta&t=cfUm3TCPnxuhrOQPny-gSh9u0PYojXeXgqmY5bV6ucY)
 
-<!---
-mhsegval/mhsegval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experienced frontend developer with expertise in developing responsive and user-friendly web applications using modern JavaScript frameworks.
+
+Skills: REACT | Redux | NextJS | JavaScript | CSS | SCSS 
+
+- 🔭 I’m currently learning VueJS.
+
+
+
+
