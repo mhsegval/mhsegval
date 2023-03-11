@@ -4,8 +4,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-segval-466069162//)  
 #### Experienced frontend developer with expertise in developing responsive and user-friendly web applications using modern JavaScript frameworks.
 
-Skills: REACT | Redux | NextJS | JavaScript | CSS | SCSS
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,redux,next)](https://skillicons.dev)
 
-- 🔭 I’m currently learning VueJS.
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/React.svg" />]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/React.svg" />]
+
