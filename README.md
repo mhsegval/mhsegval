@@ -2,7 +2,9 @@
 
 # Hi there 👋, I'm Mohammed
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-segval-466069162//)   -->
-##### Experienced frontend developer with expertise in developing responsive and user-friendly web applications using modern JavaScript frameworks.
+#### Experienced frontend developer with expertise in developing responsive and user-friendly web applications using modern JavaScript frameworks.
+
+⚡Fun fact: Did you know that when I'm not coding, I'm usually either on the basketball court or sipping on a delicious cup of coffee? 
 
 ### Skills
 <!-- [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,redux,next)](https://skillicons.dev) -->
@@ -21,3 +23,11 @@
 ### Connect
 [![Connect me on LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&logoHeight=100)](https://www.linkedin.com/in/mohammed-segval-466069162/)
 [![Connect me on LinkedIn](https://img.shields.io/badge/-GMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40&logoHeight=100)](mailto:mohammedsegval53@gmail.com)
+
+### Projects
+ #### Portfolio Projects:
+  - <img height="22" width="22" src="https://cdn.simpleicons.org/next.js/#00000" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> [![Hatim's Portfolio](https://img.shields.io/badge/Hatim's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://hatim-namakwala.netlify.app/)
+  -  <img height="22" width="22" src="https://cdn.simpleicons.org/react/#61DAFB" /> <img height="22" width="22" src="https://cdn.simpleicons.org/bootstrap/#7952B3" /> [![Mufaddal's Portfolio](https://img.shields.io/badge/Mufaddal's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://mufaddal-materwala.vercel.app/)
+
+### Stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mhsegval)
