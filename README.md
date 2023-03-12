@@ -26,8 +26,12 @@
 
 ### Projects
  #### Portfolio Projects:
-  - <img height="22" width="22" src="https://cdn.simpleicons.org/next.js/#00000" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> [![Hatim's Portfolio](https://img.shields.io/badge/Hatim's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://hatim-namakwala.netlify.app/)
-  -  <img height="22" width="22" src="https://cdn.simpleicons.org/react/#61DAFB" /> <img height="22" width="22" src="https://cdn.simpleicons.org/bootstrap/#7952B3" /> [![Mufaddal's Portfolio](https://img.shields.io/badge/Mufaddal's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://mufaddal-materwala.vercel.app/)
+ - <img height="22" width="22" src="https://cdn.simpleicons.org/react/#61DAFB" /> <img height="22" width="22" src="https://cdn.simpleicons.org/bootstrap/#7952B3" /> [![Hatim's Portfolio](https://img.shields.io/badge/Hatim's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://hatim-namakwala.netlify.app/)
+ - <img height="22" width="22" src="https://cdn.simpleicons.org/next.js/#00000" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> [![Mufaddal's Portfolio](https://img.shields.io/badge/Mufaddal's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://mufaddal-materwala.vercel.app/)
+
+ #### Other Projects:
+ - <img height="22" width="22" src="https://cdn.simpleicons.org/react/#61DAFB" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> <img height="22" width="22" src="https://cdn.simpleicons.org/redux/#764ABC" /> [![Musicle](https://img.shields.io/badge/Musicle-Click%20me!-lightgrey?style=flat-square)](https://musicle-app.netlify.app/)
+ - </pre><img height="22" width="22" src="https://cdn.simpleicons.org/react/#61DAFB" /> <img height="22" width="22" src="https://cdn.simpleicons.org/CSS3/#1572B6" /> [![Image Search Engine](https://img.shields.io/badge/Image%20Search%20Engine-Click%20me!-lightgrey?style=flat-square)](https://image-search-engine-by-mh.netlify.app/)
 
 ### Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mhsegval)
