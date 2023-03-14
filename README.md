@@ -25,6 +25,9 @@
 [![Connect me on LinkedIn](https://img.shields.io/badge/-GMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40&logoHeight=100)](mailto:mohammedsegval53@gmail.com)
 
 ### Projects
+ #### Currently focusing on 🔭
+ - <img height="22" width="22" src="https://cdn.simpleicons.org/vite/#646CFF" /> <img height="22" width="22" src="https://cdn.simpleicons.org/react/#61DAFB" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> ![Travel-Vitejs](https://img.shields.io/badge/Travel%20Website-Vite%20JS-lightgrey?style=flat-square)
+ - In this project, I will be implementing unit testing, which involves writing code to test individual units of your software to ensure that they function as expected and complex routing system that will allow the software to handle more advanced user requests and navigate through different pages seamlessly.
  #### Portfolio Projects:
  - <img height="22" width="22" src="https://cdn.simpleicons.org/react/#61DAFB" /> <img height="22" width="22" src="https://cdn.simpleicons.org/bootstrap/#7952B3" /> [![Hatim's Portfolio](https://img.shields.io/badge/Hatim's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://hatim-namakwala.netlify.app/)
  - <img height="22" width="22" src="https://cdn.simpleicons.org/next.js/#00000" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> [![Mufaddal's Portfolio](https://img.shields.io/badge/Mufaddal's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://mufaddal-materwala.vercel.app/)
