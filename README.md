@@ -19,6 +19,7 @@
 ![Skills](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=black)
 ![Skills](https://img.shields.io/badge/-Tailwind%20Css-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black)
 ![Skills](https://img.shields.io/badge/-Material-%23007FFF?style=for-the-badge&logo=mui&logoColor=black)
+![Skills](https://img.shields.io/badge/-Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Connect
 [![Connect me on LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&logoHeight=100)](https://www.linkedin.com/in/mohammed-segval-466069162/)
