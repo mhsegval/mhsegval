@@ -29,6 +29,8 @@
  #### Currently focusing on 🔭
  - [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
  - Learning NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework!
+ - <img height="22" width="22" src="https://cdn.simpleicons.org/next.js/#00000" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> <img height="22" width="22" src="https://cdn.simpleicons.org/typescript/#3178C6" />
+ - I am working on developing a full-stack TikTok clone app using Next.js, Sanity, and TypeScript. By using these technologies together, we can build a scalable and customizable TikTok clone that incorporates modern web development best practices.
  #### Portfolio Projects:
  - <img height="22" width="22" src="https://cdn.simpleicons.org/react/#61DAFB" /> <img height="22" width="22" src="https://cdn.simpleicons.org/bootstrap/#7952B3" /> [![Hatim's Portfolio](https://img.shields.io/badge/Hatim's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://hatim-namakwala.netlify.app/)
  - <img height="22" width="22" src="https://cdn.simpleicons.org/next.js/#00000" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" /> [![Mufaddal's Portfolio](https://img.shields.io/badge/Mufaddal's%20Portfolio-Click%20me!-lightgrey?style=flat-square)](https://mufaddal-materwala.vercel.app/)
