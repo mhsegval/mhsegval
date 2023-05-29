@@ -1,4 +1,4 @@
-![How about "Turning coffee into code, one line at a time"?]([https://media.licdn.com/dms/image/D5616AQHXRHAxtpAAjw/profile-displaybackgroundimage-shrink_350_1400/0/1667441141691?e=1691020800&v=beta&t=iwHVdIBu3f9ZveVEheZcPVTyVRdYBT53ugOVKYbECOQ](https://res.cloudinary.com/dis7zaqcb/image/upload/v1685375915/Github/coverpic_oo1c9h.jpg))
+![How about "Turning coffee into code, one line at a time"?](https://res.cloudinary.com/dis7zaqcb/image/upload/v1685375915/Github/coverpic_oo1c9h.jpg)
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I'm Mohammed
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-segval-466069162//)   -->
