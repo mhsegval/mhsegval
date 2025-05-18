@@ -1,4 +1,4 @@
-![How about "Turning coffee into code, one line at a time"?](https://res.cloudinary.com/dis7zaqcb/image/upload/q_auto,f_auto,fl_progressive/v1747581980/linkedin-banner_2_wqdp7u.png)
+![How about "Turning coffee into code, one line at a time"?](https://res.cloudinary.com/dis7zaqcb/image/upload/v1747581980/linkedin-banner_2_wqdp7u.png)
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I'm Mohammed
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-segval-466069162//)   -->
 #### Experienced frontend developer with expertise in developing responsive and user-friendly web applications using modern JavaScript frameworks.
