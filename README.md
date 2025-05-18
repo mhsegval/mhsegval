@@ -28,7 +28,6 @@
  - [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
  - Learning NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework!
  - <img height="22" width="22" src="https://cdn.simpleicons.org/nextdotjs/000000/white" /> <img height="22" width="22" src="https://cdn.simpleicons.org/tailwindcss/06B6D4/white" /> <img height="22" width="22" src="https://cdn.simpleicons.org/typescript/3178C6/white" />
- - I am working on developing a full-stack social media app using Next.js, Sanity, and TypeScript. By using these technologies together, we can build a scalable and customizable TikTok clone that incorporates modern web development best practices.
 
 
 ## 🚀 Projects
